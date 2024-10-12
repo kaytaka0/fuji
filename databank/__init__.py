@@ -1,0 +1,2 @@
+
+FUJI_NAMESPACE = 'fuji'
